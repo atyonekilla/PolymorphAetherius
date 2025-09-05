@@ -1,0 +1,4 @@
+#include "resource.h"
+
+IDR_RCDATA1 RCDATA "settings.bin"
+IDR_RCDATA2 RCDATA "target.exe"
